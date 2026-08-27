@@ -1,0 +1,12 @@
+1. How often is the cheapest product actually not the best value?
+-When this happens, how significant is the difference? 
+-How much more per unit can consumers pay when they choose based on sticker
+price instead of unit price?
+
+2. Does buying more actually save money?
+-Does the largest package generally provide the best unit price?
+-Does this differ by category in any significant way?
+
+3. If we compared two people's spending habits, how would they differ?
+-Who pays more per year? Who pays more price/size per year?
+-If we had an arbitrary item, how much would each person pay for that unit according to their average price/size?
