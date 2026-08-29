@@ -50,7 +50,7 @@ the larger product generally provided better value per unit.
 I also created a hypothetical scenario involving two people with different spending habits, Person A and Person B.
 
 Person A buys the largest product from a category once per week, while Person B buys the smallest product according
-to the purchasing ratios outlined in `exceptions.txt`. These ratios are designed to have Person B purchase approximately
+to the purchasing ratios outlined in `data.py`, following the rules within `exceptions.txt`. These ratios are designed to have Person B purchase approximately
 the same amount of product as Person A while spending approximately the same amount or less per week. 
 
 Under these assumptions, Person A spent more money over the course of a year, while Person B paid a higher average 
