@@ -1,6 +1,6 @@
-Person A vs Person B comparisons, where Person B buys at about the same price or less than per week than Person A.
+Person A vs person B comparisons, where person B buys at about the same price or less than per week than person A.
 
-One caveat: If the divisor of the large product by the small product is a factor of X.75 or larger, (where X is an integer) we round up. 
-For example, if the larger item is $7.29 and the smaller is $2.49, the factor is 2.93, so we will buy 3 of the small product instead of 2. 
-Similarly, if a product is $4.00, and the smaller size is $2.25, we will buy 2 of the smaller size, even if it is larger. Similarly, if a product is X.745, we this will round up to X.75.
-
+One caveat: If the divisor of the large product by the small product is a factor of X.75 or larger, (where X is an integer) 
+we round up. For example, if the larger item is $7.29 and the smaller item is $2.49, the factor is 2.93, so we will buy 3 of the small
+product instead of 2. Similarly, if a product is $4.00, and the smaller size is $2.25, we will buy 2 of the smaller size, even if it is larger.
+Similarly, if a product is X.745, we this will round up to X.75.
